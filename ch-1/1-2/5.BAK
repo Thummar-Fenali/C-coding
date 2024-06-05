@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+	int start,end;
+
+	printf("Enter Any Yers: ");
+	scanf("%d",&start);
+	printf("Enter Any Yers: ");
+	scanf("%d",&end);
+
+
+}

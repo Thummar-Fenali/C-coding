@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+  int a= 12,b=6;
+  clrscr();
+  printf("Addition of %d and %d is %d\n",a,b,a+b);
+  printf("Subraction of %d and %d is %d\n",a,b,a-b);
+  printf(" Multiplication of %d and % is %d\n",a,b,a*b);
+  printf("Division of %d and %d is %d\n",a,b,a/b);
+  printf("Moduolo of %d and %d is %d\n",a,b,a%b);
+  printf("%d+%d=%d\n",a,b,a+b);
+  printf("%d-%d=%d\n",a,b,a-b);
+  printf("%d*%d=%d\n",a,b,a*b);
+  printf("%d/%d=%d\n",a,b,a/b);
+  printf("%d %% %d= %d\n",a,b,a%b);
+
+  getch();
+  }
